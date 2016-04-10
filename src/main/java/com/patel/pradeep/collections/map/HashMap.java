@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.patel.pradeep.concurrency.collections.map;
+package com.patel.pradeep.collections.map;
 
 import java.util.concurrent.ConcurrentHashMap;
 

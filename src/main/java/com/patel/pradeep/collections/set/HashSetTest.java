@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.patel.pradeep.concurrency.collections.set;
+package com.patel.pradeep.collections.set;
 
 import java.util.HashSet;
 import java.util.Set;

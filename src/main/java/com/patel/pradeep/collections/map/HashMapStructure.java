@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.patel.pradeep.map.hashmap;
+package com.patel.pradeep.collections.map;
 
 import java.util.HashMap;
 import java.util.Hashtable;
