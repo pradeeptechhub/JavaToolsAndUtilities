@@ -18,7 +18,7 @@ import java.util.concurrent.Future;
  * @author prade http://farenda.com/java/java-countdownlatch-example/
  * 
  *         The latch is created with some counter value, tasks decrease
- *         counter’s value down to zero, which signals some other thread that
+ *         counter?s value down to zero, which signals some other thread that
  *         jobs have finished.
  */
 public class CountDownLatchExample_01 {
